@@ -1,0 +1,2 @@
+D:\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache

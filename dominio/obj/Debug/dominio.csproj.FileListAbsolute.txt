@@ -1,0 +1,8 @@
+F:\PROGRAMACION APUNTES\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\bin\Debug\dominio.dll
+F:\PROGRAMACION APUNTES\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\bin\Debug\dominio.pdb
+F:\PROGRAMACION APUNTES\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+F:\PROGRAMACION APUNTES\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+F:\PROGRAMACION APUNTES\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Debug\dominio.dll
+F:\PROGRAMACION APUNTES\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Debug\dominio.pdb
+D:\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\C# Nivel 2\U6\Pokemon\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
